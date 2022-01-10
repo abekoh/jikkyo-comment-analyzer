@@ -1,1 +1,1 @@
-# jk_comment_analyzer
+# jikkyo-comment-analyzer
